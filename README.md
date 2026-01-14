@@ -44,7 +44,7 @@ After analyzing the data using SQL, I identified several critical insights for t
 * [cite_start]**Top Movie:** The highest-grossing movie is *"Telegraph Voyage"*, which also has the longest rental duration[cite: 260].
 
 ## 5. Visualizations
-*(Note: To make your GitHub pop, take a screenshot of the Map on Slide 6 or 10 of your PDF and save it as 'map.png' in your repository, then uncomment the line below)*
+![Global Sales Map](map.png)
 
 [cite_start]The analysis showed a clear correlation between our fan base size and sales consistency across regions, particularly in Asia[cite: 250].
 
@@ -57,5 +57,5 @@ Based on the analysis, I recommended the following actions to the Management Boa
 
 ## 7. Project Deliverables
 * a code repository containing the SQL scripts used for analysis.
-* A presentation of the analysis and recommendations.
+* [Download Final Report (PDF)](Rockbuster%20Stealth%20Campaign%20Strategy.pdf) A presentation of the analysis and recommendations.
 * Detailed documentation of the database schema.
