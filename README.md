@@ -44,7 +44,7 @@ After analyzing the data using SQL, I identified several critical insights for t
 * [cite_start]**Top Movie:** The highest-grossing movie is *"Telegraph Voyage"*, which also has the longest rental duration[cite: 260].
 
 ## 5. Visualizations
-![Global Sales Map](map.png)
+![Global Sales Map](revenue_map.png)
 
 [cite_start]The analysis showed a clear correlation between our fan base size and sales consistency across regions, particularly in Asia[cite: 250].
 
